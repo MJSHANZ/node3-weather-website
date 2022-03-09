@@ -6,6 +6,7 @@ const { request } = require('http')
 const geocode = require('./utils/geocode')
 const forecast = require('./utils/forecast')
 
+
 // console.log(__dirname)
 // console.log(path.join(__dirname, '../public'))
 
